@@ -20,3 +20,4 @@ for (let i = 0; i < len1; i++) {
   }
 };
 console.log(Guests2)
+export{}

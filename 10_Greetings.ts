@@ -5,3 +5,5 @@ for (let i: number = 0; i < len; i++){
     // Greet each person in array using template literals
     console.log(`Hello,${Names[i]}`);
 };
+
+export{}

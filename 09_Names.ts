@@ -4,3 +4,5 @@ let len: number = Names.length;
 for (let i: number = 0; i < len; i++) {
     console.log(Names[i]);
 };
+
+export{}

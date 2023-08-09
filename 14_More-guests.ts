@@ -10,3 +10,4 @@ for (let i = 0; i < Guests1.length; i++) {
   console.log(`${Guests1[i]}, I cordially invite you to join me for an enchanting dinner gathering.`);
 }
 console.log("\nGreat news! I've found a bigger dinner table, more space for everyone at the party!");
+export{}

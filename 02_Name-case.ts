@@ -19,3 +19,5 @@ const mapping_string_array = (word:string) => {
 // Convert the first character of the word to uppercase and concatenate it with the rest of the word
     return ((word.charAt(0).toUpperCase()) + word.slice(1));
 };
+
+export{}

@@ -16,3 +16,5 @@ console.log("Reversed order:", places.reverse());
 console.log("Back to original order:", places.reverse);
 console.log("Sorted in alphabetical order:", places.sort());
 console.log("Sorted in reverse alphabetical order:", places.reverse());
+
+export{}

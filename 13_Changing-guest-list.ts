@@ -5,3 +5,4 @@ for (let i = 0; i < Guests.length; i++) {
   }
   console.log(`${Guests[i]}, I cordially invite you to join me for an enchanting dinner gathering.`);
 };
+export{}
