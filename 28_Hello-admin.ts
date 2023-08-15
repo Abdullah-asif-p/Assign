@@ -7,3 +7,4 @@ for (let i = 0; i < (username.length);i++){
         console.log(`Hello ${username[i]}, thank you for logging in again`);
     }
 }
+export{}
